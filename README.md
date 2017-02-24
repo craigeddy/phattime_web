@@ -8,3 +8,7 @@ However,  you can repeat the process by running from the project root:
     npm install
     
 The caveat is that this is Windows specific right now.  That will be addressed.
+
+## Coding Standards
+
+N/A
